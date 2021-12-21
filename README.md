@@ -6,7 +6,7 @@ Sou mestre em Geodinâmica e  Geofísica pela UFRN. Sempre demonstrei paixão pe
 
 - :book: Estou aprendendo AI com Python e Tecnologias para front-end.
 - :hearts: Possuo conhecimendo básico em HTML | CSS | Javascript | Python.
-- 👯 Posso ajudar com programas básicos com Python.
+- 👯 Posso ajudar com programas básicos em Python.
 - ⚡ Fun fact: Amo actions figures e livros de ficção.
 ##
 

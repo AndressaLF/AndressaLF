@@ -1,6 +1,4 @@
-![](andressa_lima)
-
-Here are some ideas to get you started:
+![](andressa_lima.png)
 
 
 - :hearts: Estou apaixonada pelo Python | HTML | CSS | Javascript.

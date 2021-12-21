@@ -10,9 +10,9 @@
 - :hearts: Estou aprendendo HTML | CSS | Javascript | Python.
 - 👯 Posso ajudar com programas básicos com Python.
 - ⚡ Fun fact: Amo actions figures e livros de ficção.
+##
 
-
-#### Principais Linguagens
+### Principais Linguagens:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Andressa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -30,5 +30,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaLF&layout=compact&langs_count=7&theme=vue"/>
 </div>
 
-  
+ ##
+ 
+<div> 
+  <a href = "andressalimaferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andressalf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  

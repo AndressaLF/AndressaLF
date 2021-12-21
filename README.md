@@ -7,11 +7,6 @@
 - ⚡ Fun fact: Eu amo action figures e livros de ficção.
 -->
 
-
-
-
-
-
 <!--
 **AndressaLF/AndressaLF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

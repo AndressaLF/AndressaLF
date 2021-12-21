@@ -6,7 +6,7 @@
 
 
 
-- :book: Estou atualmente aprendendo AI com Python e Tecnologias para front-end.
+- :book: Estou aprendendo AI com Python e Tecnologias para front-end.
 - :hearts: Possuo conhecimendo básico em HTML | CSS | Javascript | Python.
 - 👯 Posso ajudar com programas básicos com Python.
 - ⚡ Fun fact: Amo actions figures e livros de ficção.

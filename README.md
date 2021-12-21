@@ -1,4 +1,4 @@
-## Seja Bem Vindo ao meu perfil.
+## Olá! Seja Bem Vindo ao meu perfil.
 ![](1.png)
 
 - :book: Estou atualmente aprendendo AI com Python e Tecnologias para front-end.

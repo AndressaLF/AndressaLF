@@ -1,6 +1,6 @@
 ![](1.png)
 
-- :book: I’m currently working on ...
+- :book: Estou atualmente aprendendo AI com Python e Tecnologias para front-end.
 - :hearts: Estou aprendendo HTML | CSS | Javascript | Python.
 - 👯 Posso ajudar com programas básicos com Python.
 - ⚡ Fun fact: Amo actions figures e livros de ficção.

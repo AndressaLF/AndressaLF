@@ -23,7 +23,6 @@ Sou mestre em Geodinâmica e  Geofísica pela UFRN. Sempre demonstrei paixão pe
   <a href="https://github.com/AndressaLF">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=AndressaLF&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaLF&layout=compact&langs_count=7&theme=merko"/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
  ##

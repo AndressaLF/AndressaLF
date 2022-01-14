@@ -1,7 +1,7 @@
 
-## Olá! Seja Bem Vindo.
+# Olá! Seja Bem Vindo.
 
-### Sobre mim:
+## Sobre mim:
 Sou mestre em Geodinâmica e  Geofísica pela UFRN. Sempre demonstrei paixão pelas ciências e tecnologias e sempre expressei isso por meio da minha curiosidade e desejo de aprender. Após anos atuano na pesquisa ciéntifica nas áreas de Geologia e Geofísica Marinha, resolvi, em 2020 migrar para as tecnologias. Atualmente tenho me dedicado a aprender programação com Python e tecnologias para desenvolvimento FrontEnd (HTML, CSS e Javascript).
 
 - :book: Estou aprendendo AI com Python e Tecnologias para front-end.
@@ -10,7 +10,7 @@ Sou mestre em Geodinâmica e  Geofísica pela UFRN. Sempre demonstrei paixão pe
 - ⚡ Fun fact: Amo actions figures e livros de ficção.
 ##
 
-### Principais Linguagens:
+## Principais Linguagens:
 <div style="display: inline_block">
   <img align="center" alt="Andressa-Js" height="50" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Andressa-HTML" height="50" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -20,7 +20,7 @@ Sou mestre em Geodinâmica e  Geofísica pela UFRN. Sempre demonstrei paixão pe
 
 ##
  
-### Histórico de Contribuições: 
+## Histórico de Contribuições: 
 <div align="center">
   <a href="https://github.com/AndressaLF">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AndressaLF&hide_border=true&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>

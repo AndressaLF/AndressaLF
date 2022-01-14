@@ -17,12 +17,13 @@ Sou mestre em Geodinâmica e  Geofísica pela UFRN. Sempre demonstrei paixão pe
   <img align="center" alt="Andressa-CSS" height="50" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Andressa-Python" height="50" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
+ ##
+ 
 ### Histórico de Contribuições: 
 <div align="center">
   <a href="https://github.com/AndressaLF">
-  <img height="200" width="300" src="https://github-readme-stats.vercel.app/api?username=AndressaLF&hide_border=true&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="200" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaLF&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count8=8&theme=merko"/>
+  <img height="143em" src="https://github-readme-stats.vercel.app/api?username=AndressaLF&hide_border=true&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  /*<img height="200" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaLF&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count8=8&theme=merko"/>*/
   <img height="143em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=merko"/>
 </div>
 

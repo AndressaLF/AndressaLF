@@ -8,7 +8,7 @@ Sou mestre em Geodinâmica e  Geofísica pela UFRN. Sempre demonstrei paixão pe
 - :hearts: Possuo conhecimendo básico em HTML | CSS | Javascript | Python.
 - 👯 Posso ajudar com programas básicos em Python.
 - ⚡ Fun fact: Amo actions figures e livros de ficção.
-##
+
 
 ## Principais Linguagens:
 <div style="display: inline_block">

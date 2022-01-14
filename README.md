@@ -17,7 +17,8 @@ Sou mestre em Geodinâmica e  Geofísica pela UFRN. Sempre demonstrei paixão pe
   <img align="center" alt="Andressa-CSS" height="50" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Andressa-Python" height="50" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
- ##
+
+##
  
 ### Histórico de Contribuições: 
 <div align="center">

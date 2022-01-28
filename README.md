@@ -32,5 +32,5 @@ Sou mestre em Geodinâmica e  Geofísica pela UFRN. Sempre demonstrei paixão pe
 <div align="center"> 
   <a href = "andressalimaferreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andressalf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="http://lattes.cnpq.br/6867139471633758"><img src="logo_novo.jpg" width="111" height="28"></a>
+  <a href="http://lattes.cnpq.br/6867139471633758"><img src="logo_novo2.jpg" width="111" height="28"></a>
  </div>

@@ -12,7 +12,7 @@ Sou mestre em Geodinâmica e  Geofísica pela UFRN. Sempre demonstrei paixão pe
 
 ## Principais Linguagens:
 <div style="display: inline_block">
-  <img align="center" alt="Andressa-Js" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Andressa-Js" height="50" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Andressa-HTML" height="50" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Andressa-CSS" height="50" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Andressa-Python" height="50" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

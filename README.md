@@ -1,5 +1,5 @@
 
-# Olá! Seja Bem Vindo.
+<h1 align="center"> Olá! Seja Bem Vindo.></h1>
 
 ## Sobre mim:
 Sou mestre em Geodinâmica e  Geofísica pela UFRN. Sempre demonstrei paixão pelas ciências e tecnologias e sempre expressei isso por meio da minha curiosidade e desejo de aprender. Após anos atuano na pesquisa ciéntifica nas áreas de Geologia e Geofísica Marinha, resolvi, em 2020 migrar para as tecnologias. Atualmente tenho me dedicado a aprender programação com Python e tecnologias para desenvolvimento FrontEnd (HTML, CSS e Javascript).
@@ -28,7 +28,8 @@ Sou mestre em Geodinâmica e  Geofísica pela UFRN. Sempre demonstrei paixão pe
   <img height="145em" width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaLF&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&theme=chartreuse-dark"/><br>
 </div>
 
- ##
+##
+<h3 align="center">Se conecte comigo:</h3>
  
 <div align="center"> 
   <a href = "andressalimaferreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

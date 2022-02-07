@@ -21,8 +21,7 @@ Sou mestre em Geodinâmica e  Geofísica pela UFRN. Sempre demonstrei paixão pe
   <img align="center" alt="Andressa-phpMyAdmin" height="30" width="55" src="phpmyadmin_red.png">
 </div>
 
- 
-## Histórico de Contribuições: 
+<h2 align="left">Histórico de Contribuições</h2> 
 <div align="center">
   <a href="https://github.com/AndressaLF">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=AndressaLF&hide_border=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>

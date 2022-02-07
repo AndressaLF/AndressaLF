@@ -3,10 +3,10 @@
 
 
 ## Sobre mim
-Sou mestre em Geodinâmica e  Geofísica pela UFRN. Sempre demonstrei paixão pelas ciências e tecnologias e sempre expressei isso por meio da minha curiosidade e desejo de aprender. Após anos atuano na pesquisa ciéntifica nas áreas de Geologia e Geofísica Marinha, resolvi, em 2020 migrar para as tecnologias. Atualmente tenho me dedicado a aprender programação com Python e tecnologias para desenvolvimento FrontEnd (HTML, CSS e Javascript).
+Sou mestre em Geodinâmica e  Geofísica pela UFRN. Sempre demonstrei paixão pelas ciências e tecnologias e sempre expressei isso por meio da minha curiosidade e desejo de aprender. Após anos atuando na pesquisa cientifica nas áreas de Geologia e Geofísica Marinha, resolvi, em 2020 migrar para as tecnologias. Atualmente tenho me dedicado a aprender programação com Python e tecnologias para desenvolvimento FrontEnd (HTML, CSS e Javascript).
 
 - :book: Estou aprendendo automação de sistemas e Análise de Dados com Python.
-- :hearts: Possuo conhecimendo básico em HTML | CSS | Javascript | Python.
+- :hearts: Possuo conhecimento básico em HTML | CSS | Javascript | Python.
 - 👯 Posso ajudar com programas básicos em Python.
 - ⚡ Fun fact: Amo actions figures e livros de ficção.
 

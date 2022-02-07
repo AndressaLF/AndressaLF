@@ -1,5 +1,5 @@
 
-# Olá! Seja Bem Vindo.
+<h1 align="center"> Olá! Seja Bem Vindo.></h1>
 
 ## Sobre mim:
 Sou mestre em Geodinâmica e  Geofísica pela UFRN. Sempre demonstrei paixão pelas ciências e tecnologias e sempre expressei isso por meio da minha curiosidade e desejo de aprender. Após anos atuano na pesquisa ciéntifica nas áreas de Geologia e Geofísica Marinha, resolvi, em 2020 migrar para as tecnologias. Atualmente tenho me dedicado a aprender programação com Python e tecnologias para desenvolvimento FrontEnd (HTML, CSS e Javascript).
@@ -29,7 +29,8 @@ Sou mestre em Geodinâmica e  Geofísica pela UFRN. Sempre demonstrei paixão pe
 </div>
 
  ##
- 
+
+<h3 align="center">Se conecte comigo:</h3>
 <div align="center"> 
   <a href = "https://twitter.com/andr3ssalf"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "andressalimaferreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

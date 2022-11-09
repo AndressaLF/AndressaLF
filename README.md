@@ -12,7 +12,6 @@ Sou mestre em Geodinâmica e  Geofísica pela UFRN. Desde sempre sou apaixonada 
 - ⚡ Fun fact: Amo actions figures e livros de ficção.
 
 <h2 align="center"> Principais Linguagens:</h2>
-</div align="center">
   <img align="center" alt="Andressa-Js" height="50" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Andressa-HTML" height="60" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Andressa-CSS" height="60" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -20,7 +19,6 @@ Sou mestre em Geodinâmica e  Geofísica pela UFRN. Desde sempre sou apaixonada 
   <img align="center" alt="Andressa-MySQL" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Andressa-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
   <img align="center" alt="Andressa-phpMyAdmin" height="30" width="55" src="phpmyadmin_red.png">
-</div>
 </div>
 
 <h2 align="left">Histórico de Contribuições</h2> 

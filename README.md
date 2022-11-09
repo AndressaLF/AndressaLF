@@ -20,7 +20,6 @@ Sou mestre em Geodinâmica e  Geofísica pela UFRN. Desde sempre sou apaixonada 
   <img align="center" alt="Andressa-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
   <img align="center" alt="Andressa-phpMyAdmin" height="30" width="55" src="phpmyadmin_red.png">
 </div>
-
 <h2 align="center"> Histórico de Contribuições</h2>
 <br>
 <div align="center">
@@ -29,8 +28,8 @@ Sou mestre em Geodinâmica e  Geofísica pela UFRN. Desde sempre sou apaixonada 
   <img height="158em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaLF&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&theme=chartreuse-dark"/><br>
 </div>
 
-
 <h2 align="center">Conecte-se Comigo</h2>
+ <br>
 <div align="center"> 
   <a href = "https://twitter.com/andr3ssalf"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "andressalimaferreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

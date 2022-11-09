@@ -1,7 +1,7 @@
 <div style="display: inline_block">
-<br>
+
 <h1 align="center"> Olá! Seja Bem Vindo.</h1>
-<br>
+
   
 ## Sobre mim
 Sou mestre em Geodinâmica e  Geofísica pela UFRN. Desde sempre sou apaixonada pelas novas tecnologias e sempre expressei isso por meio da minha curiosidade e desejo de aprender. Após anos atuano na pesquisa ciéntifica nas áreas de Geologia e Geofísica Marinha, resolvi, em 2020 migrar de vez para as tecnologias. Atualmente tenho me dedicado a aprender desenvolvimento com Python e além disso análise de dados e machine learning.
@@ -13,6 +13,7 @@ Sou mestre em Geodinâmica e  Geofísica pela UFRN. Desde sempre sou apaixonada 
 
 
 ## Principais Linguagens:
+<h1 align="center"> Principais Linguagens:</h1>
 
   <img align="center" alt="Andressa-Js" height="50" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Andressa-HTML" height="60" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

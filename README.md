@@ -11,7 +11,7 @@ Sou mestre em Geodinâmica e  Geofísica pela UFRN. Desde sempre sou apaixonada 
 - 👯 Posso ajudar com Python.
 - ⚡ Fun fact: Amo actions figures e livros de ficção.
 
-<h2 align="center"> Principais Linguagens:</h2>
+<h2 align="center"> Principais Linguagens</h2>
   <img align="center" alt="Andressa-Js" height="50" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Andressa-HTML" height="60" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Andressa-CSS" height="60" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -25,7 +25,7 @@ Sou mestre em Geodinâmica e  Geofísica pela UFRN. Desde sempre sou apaixonada 
 <div align="center">
   <a href="https://github.com/AndressaLF">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=AndressaLF&hide_border=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="145em" width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaLF&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&theme=chartreuse-dark"/><br>
+  <img height="145em" width="435" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaLF&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&theme=chartreuse-dark"/><br>
 </div>
 
 

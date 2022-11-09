@@ -18,6 +18,7 @@ Sou mestre em Geodinâmica e  Geofísica pela UFRN. Desde sempre sou apaixonada 
   <img align="center" alt="Andressa-CSS" height="60" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Andressa-Python" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Andressa-MySQL" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Andressa-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
   <img align="center" alt="Andressa-phpMyAdmin" height="30" width="55" src="phpmyadmin_red.png">
 </div>
 
@@ -26,17 +27,6 @@ Sou mestre em Geodinâmica e  Geofísica pela UFRN. Desde sempre sou apaixonada 
   <a href="https://github.com/AndressaLF">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=AndressaLF&hide_border=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="145em" width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaLF&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&theme=chartreuse-dark"/><br>
-</div>
-
- <br>
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
 </div>
 
   ##

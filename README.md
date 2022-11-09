@@ -24,8 +24,8 @@ Sou mestre em Geodinâmica e  Geofísica pela UFRN. Desde sempre sou apaixonada 
 <h2 align="center"> Histórico de Contribuições</h2>
 <div align="center">
   <a href="https://github.com/AndressaLF">
-  <img height="137em" width="200em" src="https://github-readme-stats.vercel.app/api?username=AndressaLF&hide_border=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="145em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaLF&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&theme=chartreuse-dark"/><br>
+  <img height="137em" width="400em" src="https://github-readme-stats.vercel.app/api?username=AndressaLF&hide_border=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="145em" width="460em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaLF&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&theme=chartreuse-dark"/><br>
 </div>
 
 

@@ -11,9 +11,7 @@ Sou mestre em Geodinâmica e  Geofísica pela UFRN. Desde sempre sou apaixonada 
 - 👯 Posso ajudar com Python.
 - ⚡ Fun fact: Amo actions figures e livros de ficção.
 
-
-## Principais Linguagens:
-<h1 align="center"> Principais Linguagens:</h1>
+<h2 align="center"> Principais Linguagens:</h2>
 
   <img align="center" alt="Andressa-Js" height="50" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Andressa-HTML" height="60" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

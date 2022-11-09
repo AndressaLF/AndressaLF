@@ -39,15 +39,11 @@ Sou mestre em Geodinâmica e  Geofísica pela UFRN. Sempre demonstrei paixão pe
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
 </div>
-  
-  
-  
-  
+    
 <h2 align="center">Se conecte comigo</h2>
 <div align="center"> 
   <a href = "https://twitter.com/andr3ssalf"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "andressalimaferreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andressalf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="http://lattes.cnpq.br/6867139471633758"><img src="logo_novo2.jpg" width="111" height="28"></a>
-   ![Snake animation](https://github.com/AndressaLF/AndressaLF/blob/output/github-contribution-grid-snake.svg)
  </div>

@@ -3,7 +3,7 @@
 <h1 align="center"> Olá! Seja Bem Vindo</h1>
  
 ## Sobre mim
-Sou mestre em Geodinâmica e  Geofísica pela UFRN. Desde sempre sou apaixonada pelas novas tecnologias e sempre expressei isso por meio da minha curiosidade e desejo de aprender. Após anos atuano na pesquisa ciéntifica nas áreas de Geologia e Geofísica Marinha, resolvi, em 2020 migrar de vez para as tecnologias. Atualmente tenho me dedicado a aprender desenvolvimento com Python e além disso análise de dados e machine learning.
+Sou mestre em Geodinâmica e  Geofísica pela UFRN. Após anos atuando na pesquisa científica nas áreas de Geologia e Geofísica Marinha, resolvi em 2020 migrar de vez para as tecnologias. Atualmente tenho me dedicado a aprender desenvolvimento Back-End com Python, análise de dados e machine learning.
 
 - :book: Tenho estudado Automação, Análise de Dados e Machine Learning com Python.
 - :hearts: Possuo conhecimento em Python | Java | HTML | CSS | Javascript.

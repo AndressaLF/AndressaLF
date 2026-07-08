@@ -3,7 +3,7 @@
 <h1 align="center"> Olá! Seja Bem Vindo</h1>
  
 ## Sobre mim
-Sou mestre em Geodinâmica e  Geofísica pela UFRN. Após anos atuando na pesquisa científica nas áreas de Geologia e Geofísica Marinha, resolvi em 2020 migrar de vez para as tecnologias. Atualmente tenho me dedicado a aprender desenvolvimento Back-End com Python, análise de dados e machine learning.
+Sou mestre em Geodinâmica e  Geofísica pela UFRN. Após anos atuando na pesquisa científica nas áreas de Geologia e Geofísica Marinha, resolvi em 2020 migrar de vez para as tecnologias. Atualmente tenho me dedicado a aprender desenvolvimento Back-End com Python, análise de dados, machine learning e deep learning. Atuei profissionalmente na área de analise de dados para Supply Chain na Falconi e como suporte em redes na Procuradoria Geral da Justiça - MPRN. Desde 2022 estou atuando como Acessoria Técnica em projetos relacionados a Teconologias nas Geociências junto com o Laboratório de Geologia, Geofísica Marinha e Monitoramento Ambiental da UFRN(GGEMMA).
 
 - :book: Tenho estudado Automação, Análise de Dados e Machine Learning com Python.
 - :hearts: Possuo conhecimento em Python | Java | HTML | CSS | Javascript.
@@ -18,13 +18,6 @@ Sou mestre em Geodinâmica e  Geofísica pela UFRN. Após anos atuando na pesqui
   <img align="center" alt="Andressa-MySQL" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Andressa-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
   <img align="center" alt="Andressa-phpMyAdmin" height="30" width="55" src="phpmyadmin_red.png">
-</div>
-<h2 align="center"> Histórico de Contribuições</h2>
-<br>
-<div align="center">
-  <a href="https://github.com/AndressaLF">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndressaLF&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaLF&include_all_commits=true&count_private=true&layout=compact&langs_count=8&theme=chartreuse-dark"/><br>
 </div>
  
 <h2 align="center">Conecte-se Comigo</h2>

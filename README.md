@@ -5,7 +5,7 @@
 ## Sobre mim
 Sou mestre em Geodinâmica e  Geofísica pela UFRN. Após anos atuando na pesquisa científica nas áreas de Geologia e Geofísica Marinha, resolvi em 2020 migrar de vez para as tecnologias. Atualmente tenho me dedicado a aprender desenvolvimento Back-End com Python, análise de dados, machine learning e deep learning. Atuei profissionalmente na área de analise de dados para Supply Chain na Falconi e como suporte em redes na Procuradoria Geral da Justiça - MPRN. Desde 2022 estou atuando como Acessoria Técnica em projetos relacionados a Teconologias nas Geociências junto com o Laboratório de Geologia, Geofísica Marinha e Monitoramento Ambiental da UFRN(GGEMMA).
 
-- :book: Tenho estudado Automação, Análise de Dados e Machine Learning com Python.
+- :book: Tenho estudado Automação, Análise de Dados, Deep Learning e Machine Learning com Python.
 - :hearts: Possuo conhecimento em Python | Java | HTML | CSS | Javascript.
 - 👯 Posso ajudar com Python.
 - ⚡ Fun fact: Amo actions figures e livros de ficção.
